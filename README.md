@@ -1,7 +1,7 @@
 # Basic-Portfolio
 
-This is the first recommended assignment completed.
-This is part two of the first assignment where we were required to build a professional portfolio site using HTML/CSS.
+**Week-1, GT Coding Bootcamp: "recommended" assignment - portfolio website**
+This is the first recommended assignment completed. This is part two of the first assignment where we were required to build a professional portfolio site using HTML/CSS.
 
 ## Built With
 - HTML
